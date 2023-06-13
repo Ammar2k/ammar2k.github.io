@@ -3482,6 +3482,7 @@ body.is-touch .poptrox-popup .closer {
 }
 
 .status-content p {
+	line-height: 2.1rem;
 	font-size: 16px;
 	margin-bottom: 15px;
 }
