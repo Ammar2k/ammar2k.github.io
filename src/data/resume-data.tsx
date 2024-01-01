@@ -83,7 +83,7 @@ export const RESUME_DATA = {
           Implemented a lead scoring model to prioritize potential clients and designed Data Flow diagrams for current and future data flows, suggesting improvements.
         </li>
         </>
-      ).toString().replace(/'/g, "&apos;"),
+      ),
     },
     // {
     //   company: "Clevertech",
@@ -124,14 +124,14 @@ export const RESUME_DATA = {
           Developed a control algorithm for a mobile robot using Arduino, ultrasonic sensors, IR sensors, and encoders.
         </li>
         <li>
-          Successfully secured funding through IGNITE's National Grassroots Research Initiative 2022 and obtained funding for AHFE Conference registration fees under the Pakistan and European Union's Horizon 2020 ENHANCE project.
+          Successfully secured funding through IGNITE National Grassroots Research Initiative 2022 and obtained funding for AHFE Conference registration fees under the Pakistan and European Unions Horizon 2020 ENHANCE project.
         </li>
         <li>
           First Authored a conference paper for the Applied Human Factors and Ergonomics Conference (AHFE), 2022.{" "}
           <a href="http://doi.org/10.54941/ahfe1001600">[1]</a>
         </li>
         </>
-      ).toString().replace(/'/g, "&apos;"),
+      ),
     },
   ],
   skills: [
