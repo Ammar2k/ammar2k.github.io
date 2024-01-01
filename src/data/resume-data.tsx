@@ -83,7 +83,7 @@ export const RESUME_DATA = {
           Implemented a lead scoring model to prioritize potential clients and designed Data Flow diagrams for current and future data flows, suggesting improvements.
         </li>
         </>
-      ),
+      ).toString().replace(/'/g, "&apos;"),
     },
     // {
     //   company: "Clevertech",
@@ -131,7 +131,7 @@ export const RESUME_DATA = {
           <a href="http://doi.org/10.54941/ahfe1001600">[1]</a>
         </li>
         </>
-      ),
+      ).toString().replace(/'/g, "&apos;"),
     },
   ],
   skills: [
