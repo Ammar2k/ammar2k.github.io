@@ -32,11 +32,11 @@
 
 // module.exports = nextConfig
 
-/** @type {import('next').NextConfig} */
-const nextConfig = {}
+// /** @type {import('next').NextConfig} */
+// const nextConfig = {}
 module.exports = {
     // Other configurations...
-    nextConfig,
+    // nextConfig,
     trailingSlash: true,
 };
 
