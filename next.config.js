@@ -32,18 +32,12 @@
 
 // module.exports = nextConfig
 
+/** @type {import('next').NextConfig} */
+const nextConfig = {}
 module.exports = {
     // Other configurations...
-
+    nextConfig,
     trailingSlash: true,
-
-    exportPathMap: async function () {
-    return {
-        '/': { page: '/' },
-        '/about/': { page: '/about' },
-        // Add more routes here with trailing slashes
-        };
-    },
 };
 
 
