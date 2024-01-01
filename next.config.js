@@ -20,7 +20,14 @@
 
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-    target: 'serverless',
+    exportPathMap: function() {
+    return {
+        '/': { page: '/' },
+        // Add more routes here
+        // '/about': { page: '/about' },
+        // '/blog': { page: '/blog' },
+        };
+    },
 }
 
 module.exports = nextConfig
