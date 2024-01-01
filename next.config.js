@@ -35,8 +35,15 @@
 module.exports = {
     // Other configurations...
 
-    // Export your pages for static generation
-    target: 'experimental-serverless-trace',
+    trailingSlash: true,
+
+    exportPathMap: async function () {
+    return {
+        '/': { page: '/' },
+        '/about/': { page: '/about' },
+        // Add more routes here with trailing slashes
+        };
+    },
 };
 
 
