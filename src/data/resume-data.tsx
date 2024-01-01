@@ -1,29 +1,29 @@
-// import {
-//   AmbitLogo,
-//   BarepapersLogo,
-//   BimLogo,
-//   CDGOLogo,
-//   ClevertechLogo,
-//   ConsultlyLogo,
-//   EvercastLogo,
-//   Howdy,
-//   JarockiMeLogo,
-//   JojoMobileLogo,
-//   Minimal,
-//   MobileVikingsLogo,
-//   MonitoLogo,
-//   NSNLogo,
-//   ParabolLogo,
-//   TastyCloudLogo,
-//   YearProgressLogo,
-// } from "@/images/logos";
+import {
+  AmbitLogo,
+  BarepapersLogo,
+  BimLogo,
+  CDGOLogo,
+  ClevertechLogo,
+  ConsultlyLogo,
+  EvercastLogo,
+  Howdy,
+  JarockiMeLogo,
+  JojoMobileLogo,
+  Minimal,
+  MobileVikingsLogo,
+  MonitoLogo,
+  NSNLogo,
+  ParabolLogo,
+  TastyCloudLogo,
+  YearProgressLogo,
+} from "@/images/logos";
 import { GitHubIcon, LinkedInIcon} from "@/components/icons";
 
 export const RESUME_DATA = {
   name: "Muhammad Ammar",
   initials: "MA",
   location: "Islamabad, Pakistan, PKT",
-  // locationLink: "https://www.google.com/maps/place/Wrocław",
+  locationLink: "https://www.google.com/maps/place/Islamabad",
   about:
     "Solution Analyst focused on developing automated solutions to solve applied problems",
   summary:
