@@ -18,7 +18,6 @@
 
 // module.exports = nextConfig
 
-// /** @type {import('next').NextConfig} */
 // const nextConfig = {
 //     exportPathMap: function() {
 //     return {
@@ -32,7 +31,6 @@
 
 // module.exports = nextConfig
 
-// /** @type {import('next').NextConfig} */
 // const nextConfig = {}
 module.exports = {
     // Other configurations...
