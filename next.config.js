@@ -18,19 +18,26 @@
 
 // module.exports = nextConfig
 
-/** @type {import('next').NextConfig} */
-const nextConfig = {
-    exportPathMap: function() {
-    return {
-        '/': { page: '/' },
-        // Add more routes here
-        // '/about': { page: '/about' },
-        // '/blog': { page: '/blog' },
-        };
-    },
-}
+// /** @type {import('next').NextConfig} */
+// const nextConfig = {
+//     exportPathMap: function() {
+//     return {
+//         '/': { page: '/' },
+//         // Add more routes here
+//         // '/about': { page: '/about' },
+//         // '/blog': { page: '/blog' },
+//         };
+//     },
+// }
 
-module.exports = nextConfig
+// module.exports = nextConfig
+
+module.exports = {
+    // Other configurations...
+
+    // Export your pages for static generation
+    target: 'experimental-serverless-trace',
+};
 
 
 // const repo = 'https://github.com/Ammar2k/ammar2k.github.io'
