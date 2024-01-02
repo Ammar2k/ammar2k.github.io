@@ -1,10 +1,12 @@
-/** @type {import('next').NextConfig} */
+/** 
+ * @type {import('next').NextConfig}
+ */
 const nextConfig = {
-    reactStrictMode: true,
-
-   // Add basePath
-    basePath: '/Ammar2k.github.io',
-
-}
+    output: 'export',
+    distDir: 'dist',
+    image: {
+        unoptimized: true,
+    },
+};
 
 module.exports = nextConfig
