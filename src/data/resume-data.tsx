@@ -302,4 +302,56 @@ export const RESUME_DATA = {
   //     logo: CDGOLogo,
   //   },
   ],
+  courses: [
+    {
+      title: "Machine Learning Specialization by DeepLearning.AI",
+      techStack: ["ML", "numpy", "pandas", "matplotlib"],
+      description:
+        "Introduces foundational ML concepts. Covers everything from data analytics using pandas to classification using Neural Nets.",
+      link: {
+        label: "Certificate Link",
+        href: "https://www.coursera.org/account/accomplishments/specialization/F7QDWR9FL7Q5",
+      },
+    },
+    {
+      title: "Natural Language Processing Specialization by DeepLearning.AI",
+      techStack: ["NLP", "LSTMs", "GRUs", "Transformers"],
+      description:
+        "Deep Dive into NLP. Starts from Classification and Vector spaces, coverts probabilistic models, and eventually moves on to Deep Neural Nets.",
+      link: {
+        label: "Certificate Link",
+        href: "https://www.coursera.org/account/accomplishments/specialization/JT69WWC2QX8U",
+      },
+    },
+    {
+      title: "PyTorch for Deep Learning by Zero-to-Mastery",
+      techStack: ["PyTorch", "Fine-Tuning", "ViT"],
+      description:
+        "Complete guide to PyTorch from the fundamentals. Covers everything from the basics to building a Vision Transformer from scratch.",
+      link: {
+        label: "Certificate Link",
+        href: "https://ude.my/UC-848efdab-fe67-45c4-87b3-afdfa21a235b/",
+      },
+    },
+    {
+      title: "Generative AI with Large Language Models by DeepLearning.AI",
+      techStack: ["Generative AI", "LLMs"],
+      description:
+        "Covers LLMs for text generation, from pre-training to instruction fine-tuning to RLHF.",
+      link: {
+        label: "Certificate Link",
+        href: "https://www.coursera.org/account/accomplishments/verify/D3L539HPAWU8",
+      },
+    },
+    {
+      title: "Robotics: Aerial Robotics by UPenn",
+      techStack: ["Motion Planning", "Robotics", "Quadcopter"],
+      description:
+        "Mechanics of flight and design of quadrotors flying robots. Control and Planning for three dimensional flights.",
+      link: {
+        label: "Certificate Link",
+        href: "https://www.coursera.org/account/accomplishments/verify/K6HM3M6EF44F",
+      },
+    },
+  ],
 } as const;
