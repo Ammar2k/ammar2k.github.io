@@ -25,9 +25,9 @@ export const RESUME_DATA = {
   location: "Islamabad, Pakistan, PKT",
   locationLink: "https://www.google.com/maps/place/Islamabad",
   about:
-    "Solution Analyst focused on developing automated solutions to solve applied problems",
+    "Machine Learning student focused on learning through the delivery of solutions",
   summary:
-    "As a Solution Analyst, I have successfully developed multiple solutions to automate repeated tasks. My recent work has been focused at developing applications using LLMs. I am a lifelong learners, always improving myself step by step. Currently, I am focusing on improving my programming skills and learning about application deployment. ",
+    "As a self-learned Machine Learning Engineer, I leverage my background in Mechanical Engineering to provide a unique perspective to solutions. As a big proponent of lifelong learning, I am always involved in improving my skillset. Currently, I am focusing on improving my understanding of application deployment using cloud services.",
   avatarUrl: "https://avatars.githubusercontent.com/Ammar2k",
   personalWebsiteUrl: "ammar2k.github.io",
   contact: {
