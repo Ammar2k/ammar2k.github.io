@@ -61,6 +61,22 @@ export const RESUME_DATA = {
   ],
   work: [
     {
+      company: "NeuroOceans AI",
+      link: "https://neurooceans.ai/",
+      badges: ["Remote"],
+      title: "Machine Learning Engineer",
+      // logo: ParabolLogo,
+      start: "2024",
+      end: "Present",
+      description: (
+        <>
+          Deep-fake Audio Detection: Preprocessed audio dataset using pyannote and librosa. 
+          Loaded Pre-trained models from HuggingFace and added trainable binary classification head. 
+          Created PyTorch training loop and ran the model through it. Computed performance metrics to evaluate the results.
+        </>
+      ),
+    },
+    {
       company: "Learners.ai",
       link: "https://www.learners.ai/",
       badges: ["Remote"],
