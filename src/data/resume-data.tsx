@@ -187,7 +187,7 @@ export const RESUME_DATA = {
     },
     {
       title: "Q&A Chatbot on private data",
-      techStack: ["OpenAI API", "LangChain", "Vector Database"],
+      techStack: ["OpenAI API", "LangChain", "Vector Database", "Blogpost"],
       description:
         "Blogpost on Retrieval Augmented Generation (RAG) using ChromaDB, GPT wrapped around LangChain, and private data.",
       // logo: JarockiMeLogo,
@@ -198,7 +198,7 @@ export const RESUME_DATA = {
     },
     {
       title: "Scene Classification",
-      techStack: ["PyTorch", "Computer Vision", "Fine-Tuning", "Gradio"],
+      techStack: ["PyTorch", "Computer Vision", "Gradio"],
       description:
         "Finetuned ViT pre-trained on ImageNet for Kaggle Intel Classification Challenge.",
       // logo: Minimal,
@@ -216,6 +216,17 @@ export const RESUME_DATA = {
       link: {
         label: "github.com",
         href: "https://github.com/Ammar2k/podcast_chatbot",
+      },
+    },
+    {
+      title: "Transfer Learning with PyTorch",
+      techStack: ["PyTorch", "Vision Transformer", "Blogpost"],
+      description:
+        "Scene classification by fine-tuning pre-trained Vision Transformers (ViT) guide.",
+      // logo: JarockiMeLogo,
+      link: {
+        label: "medium.com",
+        href: "https://medium.com/@muhammad2000ammar/mastering-transfer-learning-with-pytorch-d1521f3a6a6e",
       },
     },
   //   {
@@ -341,7 +352,7 @@ export const RESUME_DATA = {
     },
     {
       title: "PyTorch for Deep Learning by Zero-to-Mastery",
-      techStack: ["PyTorch", "Fine-Tuning", "ViT"],
+      techStack: ["PyTorch", "Computer Vision"],
       description:
         "Complete guide to PyTorch from the fundamentals. Covers everything from the basics to building a Vision Transformer from scratch.",
       link: {
