@@ -25,7 +25,7 @@ export const RESUME_DATA = {
   location: "Islamabad, Pakistan, PKT",
   locationLink: "https://www.google.com/maps/place/Islamabad",
   about:
-    "Machine Learning student focused on learning through the delivery of solutions",
+    "Machine Learning Engineer | Solution Analyst | Mechanical Engineer",
   summary:
     "As a self-learned Machine Learning Engineer, I leverage my background in Mechanical Engineering to provide a unique perspective to solutions. As a big proponent of lifelong learning, I am always upskilling myself through research and implementation of new techniques.",
   avatarUrl: "https://avatars.githubusercontent.com/Ammar2k",
