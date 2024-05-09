@@ -53,6 +53,12 @@ export const RESUME_DATA = {
   },
   education: [
     {
+      school: "Friedrich-Alexander-Universität Erlangen-Nürnberg",
+      degree: "MSc Electromobility-ACES",
+      start: "2024",
+      end: "Present",
+    },
+    {
       school: "National University of Sciences and Technology",
       degree: "Bachelor Degree in Mechanical Engineering",
       start: "2018",
@@ -67,7 +73,7 @@ export const RESUME_DATA = {
       title: "Machine Learning Engineer",
       // logo: ParabolLogo,
       start: "2024",
-      end: "Present",
+      end: "2024",
       description: (
         <>
           Deep-fake Audio Detection: Preprocessed audio dataset using pyannote and librosa. 
