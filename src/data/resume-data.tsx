@@ -22,17 +22,17 @@ import { GitHubIcon, LinkedInIcon} from "@/components/icons";
 export const RESUME_DATA = {
   name: "Muhammad Ammar",
   initials: "MA",
-  location: "Islamabad, Pakistan, PKT",
-  locationLink: "https://www.google.com/maps/place/Islamabad",
+  location: "Erlangen, Germany, CEST",
+  locationLink: "https://www.google.com/maps/place/Erlangen",
   about:
     "Machine Learning Engineer | Solution Analyst | Mechanical Engineer",
   summary:
-    "As a self-learned Machine Learning Engineer, I leverage my background in Mechanical Engineering to provide a unique perspective to solutions. As a big proponent of lifelong learning, I am always upskilling myself through research and implementation of new techniques.",
+    "With an academic background in Mechanical Engineering and professional experience in Data Analytics and Machine Learning, I am enrolled in MSc Electromobility at Friedrich-Alexander-Universität Erlangen-Nürnberg. My focus is on the development of intelligent solutions to applied problems, and am actiely looking for positions where I can create an impact doing so.",
   avatarUrl: "https://avatars.githubusercontent.com/Ammar2k",
   personalWebsiteUrl: "ammar2k.github.io",
   contact: {
     email: "muhammad2000ammar@gmail.com",
-    // tel: "+923325755532",
+    // tel: "+4915773856534",
     social: [
       {
         name: "GitHub",
@@ -76,9 +76,15 @@ export const RESUME_DATA = {
       end: "2024",
       description: (
         <>
-          Deep-fake Audio Detection: Preprocessed audio dataset using pyannote and librosa. 
-          Loaded Pre-trained models from HuggingFace and added trainable binary classification head. 
-          Created PyTorch training loop and ran the model through it. Computed performance metrics to evaluate the results.
+        <li>
+          Worked as part of Machine Learning team to develop solutions.
+        </li>
+        <li>
+          Development of audiovisual multimodal deepfake detection model.
+        </li>
+        <li>
+          Built entire pipeline, from dataset collection, preprocessing, model training, and evalutaion.
+        </li>
         </>
       ),
     },
@@ -131,7 +137,7 @@ export const RESUME_DATA = {
     // },
     {
       company: "Robotics and Intelligent Systems Engineering (RISE) Laboratory",
-      link: "https://www.nokia.com",
+      link: "https://smme.nust.edu.pk/department-page/lab-facilities-4/",
       badges: [],
       title: "Undergraduate Researcher",
       // logo: NSNLogo,
@@ -161,9 +167,11 @@ export const RESUME_DATA = {
     "Pytorch",
     "LLMs",
     "Prompt Engineering",
+    "Natural Language Processing",
     "Computer Vision",
     "Machine Learning",
     "Data Science",
+    "ROS2"
   ],
   projects: [
     {
