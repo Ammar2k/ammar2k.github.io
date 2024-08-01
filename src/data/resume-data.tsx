@@ -394,5 +394,15 @@ export const RESUME_DATA = {
         href: "https://www.coursera.org/account/accomplishments/verify/K6HM3M6EF44F",
       },
     },
+    {
+      title: "ROS2 For Beginners (ROS Foxy, Humble - 2024)",
+      techStack: ["ROS2", "Robotics", "Linux", "Python"],
+      description:
+        "Programming fundamentals of Robot Operating System 2 (ROS2) in Python.",
+      link: {
+        label: "Certificate Link",
+        href: "https://www.udemy.com/certificate/UC-b3c56674-3a0f-46a7-b94a-0648b477e856/",
+      },
+    },
   ],
 } as const;
