@@ -77,13 +77,10 @@ export const RESUME_DATA = {
       description: (
         <>
         <li>
-          Worked as part of Machine Learning team to develop solutions.
+          Development and testing of audiovisual multimodal deepfake detection model.
         </li>
         <li>
-          Development of audiovisual multimodal deepfake detection model.
-        </li>
-        <li>
-          Built entire pipeline, from dataset collection, preprocessing, model training, and evalutaion.
+          Built entire pipeline, from dataset collection and preprocessing, to model training and evalutaion.
         </li>
         </>
       ),
