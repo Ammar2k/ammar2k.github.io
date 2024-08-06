@@ -27,7 +27,7 @@ export const RESUME_DATA = {
   about:
     "Machine Learning Engineer | Solution Analyst | Mechanical Engineer",
   summary:
-    "With an academic background in Mechanical Engineering and professional experience in Data Analytics and Machine Learning, I am enrolled in MSc Electromobility at Friedrich-Alexander-Universität Erlangen-Nürnberg. My focus is on the development of intelligent solutions to applied problems, and am actiely looking for positions where I can create an impact doing so.",
+    "Hi! I am Ammar, a student of MSc Electromobility at FAU. With the aim of developing intelligent machines, I am learning to implement AI to applied systems.",
   avatarUrl: "https://avatars.githubusercontent.com/Ammar2k",
   personalWebsiteUrl: "ammar2k.github.io",
   contact: {
