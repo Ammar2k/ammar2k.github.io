@@ -27,7 +27,7 @@ export const RESUME_DATA = {
   about:
     "Machine Learning Engineer | Solution Analyst | Mechanical Engineer",
   summary:
-    "Hi! I am Ammar, a student of MSc Electromobility-ACES at FAU. With a Bachelor's in Mechanical Engineering, I transitioned to a role in Data Science and Machine Learning through self learning. Now, with the aim of developing advanced intelligent systems, I look forward to creating a stronger impact in the industry.",
+    "I am Ammar, an MSc Electromobility-ACES student at FAU with a background in Mechanical Engineering and self-taught expertise in Data Science and Machine Learning. I aim to develop advanced intelligent systems and make a meaningful impact in the industry.",
   avatarUrl: "https://avatars.githubusercontent.com/Ammar2k",
   personalWebsiteUrl: "ammar2k.github.io",
   contact: {
