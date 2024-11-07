@@ -67,13 +67,35 @@ export const RESUME_DATA = {
   ],
   work: [
     {
+      company: "Siemens AG",
+      link: "https://siemens.com/",
+      badges: ["Erlangen", "Hybrid"],
+      title: "Data Analytics Researcher - Working Student",
+      // logo: ParabolLogo,
+      start: "Oct 2024",
+      end: "-",
+      description: (
+        <>
+        <li>
+          Set-up and maintenance of graph databases for software ecosystems.
+        </li>
+        <li>
+          Conducting research on network analysis of software ecosystems using health metrics.
+        </li>
+        <li>
+          Creating an LLM based Query-to-Cypher chatbot with dashboard functionality.
+        </li>
+        </>
+      ),
+    },
+    {
       company: "NeuroOceans AI",
       link: "https://neurooceans.ai/",
       badges: ["Remote"],
       title: "Machine Learning Engineer",
       // logo: ParabolLogo,
-      start: "2024",
-      end: "2024",
+      start: "Jan 2024",
+      end: "Apr 2024",
       description: (
         <>
         <li>
@@ -91,8 +113,8 @@ export const RESUME_DATA = {
       badges: ["Remote"],
       title: "Solution Analyst",
       // logo: ParabolLogo,
-      start: "2023",
-      end: "2024",
+      start: "June 2023",
+      end: "Dec 2023",
       description: (
         <>
         <li>
