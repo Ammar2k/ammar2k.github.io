@@ -25,9 +25,9 @@ export const RESUME_DATA = {
   location: "Erlangen, Germany, CEST",
   locationLink: "https://www.google.com/maps/place/Erlangen",
   about:
-    "Machine Learning Engineer | Solution Analyst | Mechanical Engineer",
+    "Data Analytics Researcher @ Siemens | MSc Electromobility-ACES @ FAU | BSc Mechanical Engineer @ NUST",
   summary:
-    "Currently pursuing an MSc in Electromobility-ACES at Friedrich-Alexander-Universität Erlangen-Nürnberg, I bring a strong foundation in Mechanical Engineering, along with self-directed learning in Data Science and Machine Learning. My goal is to leverage this multidisciplinary expertise to design and develop cutting-edge intelligent systems that can drive innovation and create a positive impact in the industry. Through a deep understanding of both engineering principles and data-driven technologies, I aspire to contribute to the advancement of applied intelligent systems.",
+    "Pursuing an MSc in Electromobility-ACES at Friedrich-Alexander-Universität Erlangen-Nürnberg, I am currently working as a working student in Data Analytics Research at Siemens. My current work revolves around utilizing GenAI to measure software ecosystem health via graph analytics. Eventually, I aim to aid in development of research solutions that have a direct impact on improving applied systems.",
   avatarUrl: "https://avatars.githubusercontent.com/Ammar2k",
   personalWebsiteUrl: "ammar2k.github.io",
   contact: {
