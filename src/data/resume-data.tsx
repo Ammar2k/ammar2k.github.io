@@ -77,13 +77,13 @@ export const RESUME_DATA = {
       description: (
         <>
         <li>
-          Set-up and maintenance of graph databases for software ecosystems.
+          Surveyed 61 research papers related to software ecosystem health analysis and analyzed 416 health metrics to present a unified graph of metrics to measure ecosystem health in a hierarchical way.
         </li>
         <li>
-          Conducting research on network analysis of software ecosystems using health metrics.
+          Developed a GenAI powered Prompt-to-Metric interface to analyze software ecosystem health using health metric KPI tree.
         </li>
         <li>
-          Creating an LLM based Query-to-Cypher chatbot with dashboard functionality.
+          Developed an LLM powered Prompt-to-Visualization interface to fetch and display the most relevant dashboard to the user query. 
         </li>
         </>
       ),
@@ -99,7 +99,7 @@ export const RESUME_DATA = {
       description: (
         <>
         <li>
-          Development and testing of audiovisual multimodal deepfake detection model.
+          Development and testing of audiovisual bimodal deepfake detection model.
         </li>
         <li>
           Built entire pipeline, from dataset collection and preprocessing, to model training and evalutaion.
@@ -127,7 +127,7 @@ export const RESUME_DATA = {
           Conducted Data Import Analysis for data transfer from one CRM platform to another, using excel, SQL and Python.
         </li>
         <li>
-          Implemented a lead scoring model to prioritize potential clients and designed Data Flow diagrams for current and future data flows, suggesting improvements.
+          Created Ad campaign effectiveness dashboards in HubSpot and Databox.
         </li>
         </>
       ),
