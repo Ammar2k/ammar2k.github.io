@@ -27,7 +27,7 @@ export const RESUME_DATA = {
   about:
     "Data Analytics Researcher @ Siemens | MSc Electromobility-ACES @ FAU | BSc Mechanical Engineer @ NUST",
   summary:
-    "Pursuing an MSc in Electromobility-ACES at Friedrich-Alexander-Universität Erlangen-Nürnberg, I am currently working as a working student in Data Analytics Research at Siemens. My current work revolves around utilizing GenAI to measure software ecosystem health via graph analytics. Eventually, I aim to aid in development of research solutions that have a direct impact on improving applied systems.",
+    "Pursuing an MSc in Electromobility-ACES at Friedrich-Alexander-Universität Erlangen-Nürnberg, I am currently working as a working student in Data Analytics Research at Siemens. My current work revolves around utilizing GenAI to measure software ecosystem health via graph analytics. Additionally, I am working on developing agentic frameworks that deliver actionable business insights using .",
   avatarUrl: "https://avatars.githubusercontent.com/Ammar2k",
   personalWebsiteUrl: "ammar2k.github.io",
   contact: {
