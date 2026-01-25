@@ -84,13 +84,16 @@ export const RESUME_DATA = {
       description: (
         <>
         <li>
-          Surveyed 61 research papers related to software ecosystem health analysis and analyzed 416 health metrics to present a unified graph of metrics to measure ecosystem health in a hierarchical way.
+          Conducted systematic literature review of software ecosystem health analysis. Surveyed 61 research articles and analyzed 416 health metrics to present a unified graph of metrics to measure ecosystem health in a hierarchical way.
         </li>
         <li>
-          Developed a GenAI powered Prompt-to-Metric interface to analyze software ecosystem health using health metric KPI tree.
+          Developed a LLM powered Text-to-Cypher pipeline that maps prompts to metrics for analyzing software ecosystem health using a health metric KPI tree.
         </li>
         <li>
-          Developed an LLM powered Prompt-to-Visualization interface to fetch and display the most relevant dashboard to the user query. 
+          Created a metric graph to oversee real-time visualization of underlying database represented by neo4j.
+        </li>
+        <li>
+          Developed an LLM powered Prompt-to-Visualization pipeline to display the most relevant dashboard to the user query, lowering TTI from 2 minutes to 5 seconds.
         </li>
         </>
       ),
@@ -106,10 +109,10 @@ export const RESUME_DATA = {
       description: (
         <>
         <li>
-          Development and testing of audiovisual bimodal deepfake detection model.
+          Finetuned multiple audiovisual deepfake detection models and evaluated performance on metrics to identify the best performing one.
         </li>
         <li>
-          Built entire pipeline, from dataset collection and preprocessing, to model training and evalutaion.
+        	Worked on the entire pipeline development, from dataset collection, preprocessing, to model training and evaluation.
         </li>
         </>
       ),
@@ -125,13 +128,13 @@ export const RESUME_DATA = {
       description: (
         <>
         <li>
-          Utilized LangChain and Pinecone to build a GPT-powered chatbot for generating sales proposals from call transcripts, incorporating insights from past proposals.
+          Utilized LangChain and Pinecone to build an LLM-powered chatbot for generating sales proposals from call transcripts, incorporating insights from past proposals.
         </li>
         <li>
-          Developed a copywriter assistant chatbot using LangChain Agents and custom functions, along with a tailored knowledge base.
+          Developed a copywriter assistant chatbot using LangChain Agents with custom tools and a curated knowledge base.
         </li>
         <li>
-          Conducted Data Import Analysis for data transfer from one CRM platform to another, using excel, SQL and Python.
+          Conducted Data Import Analysis for data transfer across CRMs, using excel, SQL and Python.
         </li>
         <li>
           Created Ad campaign effectiveness dashboards in HubSpot and Databox.
