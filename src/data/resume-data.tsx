@@ -67,6 +67,10 @@ export const RESUME_DATA = {
       start: "2018",
       end: "2022",
     },
+    {
+      school: "Scuola Superiore Sant'Anna",
+      degree: "AI & Robotics In Extended Reality Seasonal School 2025",
+    },
   ],
   work: [
     {
@@ -364,6 +368,46 @@ export const RESUME_DATA = {
   //       "Video streaming mobile application for Canal Digital subscribers",
   //     logo: CDGOLogo,
   //   },
+  ],
+  publications: [
+    {
+      title:
+        "A Chain-Driven Live Roller Mechanism for Loading and Unloading Packages on Autonomous Mobile Robots in Warehouses.",
+      description:
+        "Applied Human Factors and Ergonomics (AHFE) Conference, 2022.",
+      tags: ["Conference Paper", "Published"],
+      link: "http://doi.org/10.54941/ahfe1001600",
+    },
+    {
+      title:
+        "Prompt-to-Metric: LLMs and Graph Algorithms for Platform Ecosystem Health Monitoring.",
+      description:
+        "Explores combining LLMs with graph analytics to monitor platform ecosystems.",
+      tags: ["Research Preprint", "LLMs"],
+      link: "https://doi.org/10.64552/wipiec.v11i1.97",
+    },
+    {
+      title:
+        "Towards Data-Driven Real-Time Performance Monitoring of Platform Ecosystems.",
+      description:
+        "APSEC 2025 Software Engineering in Practice track submission.",
+      tags: ["Conference Submission", "Platform Ecosystems"],
+      link: "https://conf.researchr.org/details/apsec-2025/apsec-2025-software-engineering-in-practices/7/Towards-Data-Driven-Real-Time-Performance-Monitoring-of-Platform-Ecosystems",
+    },
+    {
+      title:
+        "Health and Performance Indicators of Platform Ecosystems: a systematic literature review.",
+      description:
+        "Systematic literature review outlining health and performance indicators for platform ecosystems.",
+      tags: ["Systematic Review", "Accepted"],
+    },
+    {
+      title:
+        "Evaluating Schema Injection Techniques for LLM-driven Text-to-Cypher Pipelines.",
+      description:
+        "Studies schema injection patterns for automating Cypher generation from natural language using LLMs.",
+      tags: ["LLMs", "Awaiting Decision"],
+    },
   ],
   courses: [
     {

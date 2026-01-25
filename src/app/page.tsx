@@ -166,6 +166,22 @@ export default function Page() {
             })}
           </div>
         </Section>
+        <Section className="print-force-new-page scroll-mb-16">
+          <h2 className="text-xl font-bold">Publications</h2>
+          <div className="-mx-3 grid grid-cols-1 gap-3 print:grid-cols-1 print:gap-2 md:grid-cols-1 lg:grid-cols-1">
+            {RESUME_DATA.publications.map((publication) => {
+              return (
+                <ProjectCard
+                  key={publication.title}
+                  title={publication.title}
+                  description={publication.description}
+                  tags={publication.tags}
+                  link={publication.link}
+                />
+              );
+            })}
+          </div>
+        </Section>
 
         <Section className="print-force-new-page scroll-mb-16">
           <h2 className="text-xl font-bold">Courses</h2>
