@@ -70,6 +70,8 @@ export const RESUME_DATA = {
     {
       school: "Scuola Superiore Sant'Anna",
       degree: "AI & Robotics In Extended Reality Seasonal School 2025",
+      start: "2025",
+      end: "2025",
     },
   ],
   work: [
