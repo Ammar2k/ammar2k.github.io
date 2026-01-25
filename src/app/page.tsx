@@ -176,7 +176,7 @@ export default function Page() {
                   title={publication.title}
                   description={publication.description}
                   tags={publication.tags}
-                  link={publication.link}
+                  link={"link" in publication ? publication.link : undefined}
                 />
               );
             })}
