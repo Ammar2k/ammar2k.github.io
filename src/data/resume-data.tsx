@@ -185,10 +185,6 @@ export const RESUME_DATA = {
         <li>
           Successfully secured funding through IGNITE National Grassroots Research Initiative 2022 and obtained funding for AHFE Conference registration fees under the Pakistan and European Unions Horizon 2020 ENHANCE project.
         </li>
-        <li>
-          First Authored a conference paper for the Applied Human Factors and Ergonomics Conference (AHFE), 2022.{" "}
-          <a href="http://doi.org/10.54941/ahfe1001600">[1]</a>
-        </li>
         </>
       ),
     },
