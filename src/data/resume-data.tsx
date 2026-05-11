@@ -17,25 +17,22 @@ import {
   TastyCloudLogo,
   YearProgressLogo,
 } from "@/images/logos";
-import { GitHubIcon, LinkedInIcon} from "@/components/icons";
+import { GitHubIcon, LinkedInIcon } from "@/components/icons";
 
 export const RESUME_DATA = {
   name: "Muhammad Ammar",
   initials: "MA",
-  location: "Erlangen, Germany, CEST",
+  location: "Erlangen, Bavaria, Germany",
   locationLink: "https://www.google.com/maps/place/Erlangen",
   about:
-    "Data Analytics Researcher @ Siemens | MSc Electromobility-ACES @ FAU | BSc Mechanical Engineer @ NUST",
+    "Data Analytics Researcher @ Siemens | MSc Electromobility-ACES @ FAU | Agentic AI & Graph Analytics",
   summary:
-    "Pursuing an MSc in Electromobility-ACES at Friedrich-Alexander-Universität Erlangen-Nürnberg, I am currently \
-    working as a working student in Data Analytics Research at Siemens. My current work revolves around utilizing \
-    GenAI to measure software ecosystem health via graph analytics. More specifically, I am building applications \
-    that allow the user to conduct graph analytics just by providing queries in natural language.",
+    "Pursuing an MSc in Electromobility-ACES at Friedrich-Alexander-Universität Erlangen-Nürnberg while working as a Data Analytics Researcher at Siemens. My work focuses on GenAI-enabled software ecosystem health monitoring, graph analytics, Text-to-Cypher pipelines, prompt-to-visualization workflows, and agentic AI systems research.",
   avatarUrl: "https://avatars.githubusercontent.com/Ammar2k",
   personalWebsiteUrl: "ammar2k.github.io",
   contact: {
-    email: "muhammad2000ammar@gmail.com",
-    // tel: "+4915773856534",
+    email: "muhammad.ammar@fau.de",
+    tel: "+49 1577 3856534",
     social: [
       {
         name: "GitHub",
@@ -56,25 +53,44 @@ export const RESUME_DATA = {
   },
   education: [
     {
-      school: "Friedrich-Alexander-Universität Erlangen-Nürnberg",
-      degree: "MSc Electromobility-ACES",
+      school: "Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU)",
+      degree: "MSc Electromobility-ACES, current grade: 1.4",
       start: "2024",
       end: "Present",
     },
     {
-      school: "National University of Sciences and Technology",
-      degree: "Bachelor Degree in Mechanical Engineering",
-      start: "2018",
-      end: "2022",
-    },
-    {
-      school: "Scuola Superiore Sant'Anna",
-      degree: "AI & Robotics In Extended Reality Seasonal School 2025",
+      school: "Scuola Superiore Sant'Anna (SSSA)",
+      degree: "AI & Robotics in Extended Reality Seasonal School",
       start: "2025",
       end: "2025",
     },
+    {
+      school: "National University of Sciences and Technology (NUST)",
+      degree: "B.Sc. Mechanical Engineering",
+      start: "2018",
+      end: "2022",
+    },
   ],
   work: [
+    {
+      company: "Siemens AG + FAPS FAU",
+      link: "https://www.siemens.com/",
+      badges: ["Erlangen", "Research"],
+      title: "Master's Thesis",
+      // logo: ParabolLogo,
+      start: "May 2026",
+      end: "Present",
+      description: (
+        <>
+        <li>
+          Beyond the Agent: A Workflow-Level Review of Agentic AI Systems.
+        </li>
+        <li>
+          Research objective: How are agentic AI systems structured, controlled, and evaluated as end-to-end workflows, and where do current approaches lack system-level rigor?
+        </li>
+        </>
+      ),
+    },
     {
       company: "Siemens AG",
       link: "https://siemens.com/",
@@ -82,20 +98,42 @@ export const RESUME_DATA = {
       title: "Data Analytics Researcher - Working Student",
       // logo: ParabolLogo,
       start: "Oct 2024",
-      end: "-",
+      end: "Present",
       description: (
         <>
         <li>
           Conducted systematic literature review of software ecosystem health analysis. Surveyed 61 research articles and analyzed 416 health metrics to present a unified graph of metrics to measure ecosystem health in a hierarchical way.
         </li>
         <li>
-          Developed a LLM powered Text-to-Cypher pipeline that maps prompts to metrics for analyzing software ecosystem health using a health metric KPI tree.
+          Developed an LLM-based Text-to-Cypher pipeline for analyzing software ecosystem health using a health metric KPI tree.
         </li>
         <li>
-          Created a metric graph to oversee real-time visualization of underlying database represented by neo4j.
+          Created a metric graph to oversee real-time visualization of the underlying Neo4j database.
         </li>
         <li>
-          Developed an LLM powered Prompt-to-Visualization pipeline to display the most relevant dashboard to the user query, lowering TTI from 2 minutes to 5 seconds.
+          Developed an LLM-powered Prompt-to-Visualization pipeline to display the most relevant dashboard for a user query, lowering TTI from 2 minutes to 5 seconds.
+        </li>
+        <li>
+          Submitted 6 invention disclosures and authored 4 research papers.
+        </li>
+        </>
+      ),
+    },
+    {
+      company: "FAPS FAU",
+      link: "https://www.faps.fau.de/",
+      badges: ["Erlangen", "Research"],
+      title: "Project Thesis",
+      // logo: ParabolLogo,
+      start: "Oct 2025",
+      end: "Mar 2026",
+      description: (
+        <>
+        <li>
+          Architectural Paradigms of Multi-Agent Systems and Agentic AI in Intelligent Manufacturing Systems, A Systematic Literature Review.
+        </li>
+        <li>
+          Research objective: How have agent architectures evolved in manufacturing systems, and what architectural design principles emerge from this evolution that are relevant for manufacturing control?
         </li>
         </>
       ),
@@ -107,14 +145,14 @@ export const RESUME_DATA = {
       title: "Machine Learning Engineer",
       // logo: ParabolLogo,
       start: "Jan 2024",
-      end: "Apr 2024",
+      end: "Mar 2024",
       description: (
         <>
         <li>
-          Finetuned multiple audiovisual deepfake detection models and evaluated performance on metrics to identify the best performing one.
+          Finetuned multiple audiovisual deepfake detection models and evaluated them on performance metrics.
         </li>
         <li>
-        	Worked on the entire pipeline development, from dataset collection, preprocessing, to model training and evaluation.
+          Led the entire pipeline development, from dataset collection and preprocessing to model training and evaluation.
         </li>
         </>
       ),
@@ -125,15 +163,15 @@ export const RESUME_DATA = {
       badges: ["Remote"],
       title: "Solution Analyst",
       // logo: ParabolLogo,
-      start: "June 2023",
+      start: "Jul 2023",
       end: "Dec 2023",
       description: (
         <>
         <li>
-          Utilized LangChain and Pinecone to build an LLM-powered chatbot for generating sales proposals from call transcripts, incorporating insights from past proposals.
+          Used LangChain and Pinecone to create a GPT-powered RAG chatbot that takes a sales call transcript and generates a sales proposal.
         </li>
         <li>
-          Developed a copywriter assistant chatbot using LangChain Agents with custom tools and a curated knowledge base.
+          Developed a copywriter chatbot using LangChain Agents, tool calling, and a curated knowledge base.
         </li>
         <li>
           Conducted Data Import Analysis for data transfer across CRMs, using excel, SQL and Python.
@@ -191,14 +229,21 @@ export const RESUME_DATA = {
   ],
   skills: [
     "Python",
-    "Pytorch",
+    "PyTorch",
     "LLMs",
+    "Agentic AI",
+    "Multi-Agent Systems",
     "Prompt Engineering",
     "Natural Language Processing",
+    "Graph Analytics",
+    "Neo4j",
+    "Cypher",
+    "LangChain",
     "Computer Vision",
     "Machine Learning",
     "Data Science",
-    "ROS2"
+    "ROS2",
+    "English (C2, IELTS 8.5)",
   ],
   projects: [
     {
@@ -376,7 +421,7 @@ export const RESUME_DATA = {
         "A Chain-Driven Live Roller Mechanism for Loading and Unloading Packages on Autonomous Mobile Robots in Warehouses.",
       description:
         "Applied Human Factors and Ergonomics (AHFE) Conference, 2022.",
-      tags: ["Conference Paper", "Published"],
+      tags: ["Conference Paper"],
       link: "http://doi.org/10.54941/ahfe1001600",
     },
     {
@@ -384,30 +429,31 @@ export const RESUME_DATA = {
         "Prompt-to-Metric: LLMs and Graph Algorithms for Platform Ecosystem Health Monitoring.",
       description:
         "Explores combining LLMs with graph analytics to monitor platform ecosystems.",
-      tags: ["Research Preprint", "LLMs"],
+      tags: ["Research Paper", "LLMs"],
       link: "https://doi.org/10.64552/wipiec.v11i1.97",
     },
     {
       title:
         "Towards Data-Driven Real-Time Performance Monitoring of Platform Ecosystems.",
       description:
-        "APSEC 2025 Software Engineering in Practice track submission.",
-      tags: ["Conference Submission", "Platform Ecosystems"],
-      link: "https://conf.researchr.org/details/apsec-2025/apsec-2025-software-engineering-in-practices/7/Towards-Data-Driven-Real-Time-Performance-Monitoring-of-Platform-Ecosystems",
+        "APSEC 2025 Software Engineering in Practice track.",
+      tags: ["Conference Paper"],
+      link: "http://doi.org/10.1109/APSEC66846.2025.00113",
     },
     {
       title:
         "Health and Performance Indicators of Platform Ecosystems: a systematic literature review.",
       description:
         "Systematic literature review outlining health and performance indicators for platform ecosystems.",
-      tags: ["Systematic Review", "Accepted"],
+      tags: ["Systematic Review"],
+      link: "http://doi.org/10.1109/SDS68531.2025.11409729",
     },
     {
       title:
-        "Evaluating Schema Injection Techniques for LLM-driven Text-to-Cypher Pipelines.",
+        "Schema Injection Strategies for LLM-Based Text-to-Cypher Query Translation: An Empirical Study.",
       description:
-        "Studies schema injection patterns for automating Cypher generation from natural language using LLMs.",
-      tags: ["LLMs", "Awaiting Decision"],
+        "Studies schema injection strategies for LLM-based Text-to-Cypher query translation. Won Best Paper Award.",
+      tags: ["LLMs", "Best Paper Award"],
     },
   ],
   courses: [
