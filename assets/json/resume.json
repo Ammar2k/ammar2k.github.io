@@ -114,9 +114,7 @@
       "endDate": "Present",
       "score": "1.4",
       "courses": [],
-      "highlights": [
-        "Current grade: 1.4"
-      ]
+      "highlights": ["Current grade: 1.4"]
     },
     {
       "institution": "Scuola Superiore Sant'Anna (SSSA)",
@@ -184,12 +182,7 @@
       "startDate": "2021-01-01",
       "endDate": "2022-01-01",
       "summary": "Designed and developed an autonomous mobile robot for warehouse operations, including obstacle avoidance and an attachable live-roller mechanism for automated loading and unloading.",
-      "highlights": [
-        "Robotics",
-        "Arduino Programming",
-        "Controls",
-        "Design"
-      ]
+      "highlights": ["Robotics", "Arduino Programming", "Controls", "Design"]
     },
     {
       "name": "Image2Audio app",
@@ -197,13 +190,7 @@
       "startDate": "2023-01-01",
       "endDate": "2023-01-01",
       "summary": "Users upload an image, the app generates a caption for the image, creates a short story based on the caption, and then converts the story into audio format.",
-      "highlights": [
-        "OpenAI API",
-        "HuggingFace",
-        "LangChain",
-        "Streamlit",
-        "TTS"
-      ]
+      "highlights": ["OpenAI API", "HuggingFace", "LangChain", "Streamlit", "TTS"]
     },
     {
       "name": "Q&A Chatbot on private data",
@@ -211,12 +198,7 @@
       "startDate": "2023-01-01",
       "endDate": "2023-01-01",
       "summary": "Blog post on Retrieval Augmented Generation (RAG) using ChromaDB, GPT wrapped around LangChain, and private data.",
-      "highlights": [
-        "OpenAI API",
-        "LangChain",
-        "Vector Database",
-        "Blogpost"
-      ]
+      "highlights": ["OpenAI API", "LangChain", "Vector Database", "Blogpost"]
     },
     {
       "name": "Scene Classification",
@@ -224,11 +206,7 @@
       "startDate": "2023-01-01",
       "endDate": "2023-01-01",
       "summary": "Finetuned ViT pre-trained on ImageNet for Kaggle Intel Classification Challenge.",
-      "highlights": [
-        "PyTorch",
-        "Computer Vision",
-        "Gradio"
-      ]
+      "highlights": ["PyTorch", "Computer Vision", "Gradio"]
     },
     {
       "name": "Podcast Summarizer",
@@ -236,12 +214,7 @@
       "startDate": "2023-01-01",
       "endDate": "2023-01-01",
       "summary": "Converts podcast audio to text using Whisper, uses GPT-3.5 to generate a summary, and uses the Wikipedia API to display additional information.",
-      "highlights": [
-        "OpenAI API",
-        "Whisper",
-        "Audio2Text",
-        "Streamlit"
-      ]
+      "highlights": ["OpenAI API", "Whisper", "Audio2Text", "Streamlit"]
     },
     {
       "name": "Transfer Learning with PyTorch",
@@ -249,11 +222,7 @@
       "startDate": "2023-01-01",
       "endDate": "2023-01-01",
       "summary": "Scene classification by fine-tuning pre-trained Vision Transformers (ViT) guide.",
-      "highlights": [
-        "PyTorch",
-        "Vision Transformer",
-        "Blogpost"
-      ]
+      "highlights": ["PyTorch", "Vision Transformer", "Blogpost"]
     }
   ],
   "certificates": [
@@ -339,25 +308,12 @@
     {
       "name": "Knowledge Graphs and Data",
       "level": "Advanced",
-      "keywords": [
-        "Knowledge Graphs",
-        "Ontologies",
-        "Ontology-Driven ETL",
-        "ETL Pipelines",
-        "Graph Analytics",
-        "Neo4j",
-        "Cypher",
-        "LangChain"
-      ]
+      "keywords": ["Knowledge Graphs", "Ontologies", "Ontology-Driven ETL", "ETL Pipelines", "Graph Analytics", "Neo4j", "Cypher", "LangChain"]
     },
     {
       "name": "Robotics",
       "level": "Intermediate",
-      "keywords": [
-        "ROS2",
-        "Arduino",
-        "Controls"
-      ]
+      "keywords": ["ROS2", "Arduino", "Controls"]
     }
   ],
   "languages": [
