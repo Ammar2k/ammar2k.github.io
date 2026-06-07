@@ -1,34 +1,44 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: AI + Knowledge Graphs Engineer @ Siemens | MSc Electromobility-ACES @ FAU
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image: pic.jpeg
+  image_circular: true # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Erlangen, Bavaria, Germany</p>
+    <p><a href="mailto:muhammad.ammar@fau.de">muhammad.ammar@fau.de</a></p>
+    <p>
+      <a href="https://github.com/Ammar2k" target="_blank" rel="noreferrer">GitHub</a>
+      &middot;
+      <a href="https://www.linkedin.com/in/muhammad2000ammar/" target="_blank" rel="noreferrer">LinkedIn</a>
+    </p>
+    <p><a href="/assets/pdf/muhammad-ammar-cv.pdf" download="Muhammad_Ammar_CV.pdf">Download CV</a></p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: false
+social: false
 
 announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  enabled: false
 
 latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  enabled: false
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I work on LLM pipelines, knowledge graphs, ontology-driven graph analytics, and applied AI. I am currently pursuing an MSc in Electromobility-ACES at Friedrich-Alexander-Universitat Erlangen-Nurnberg while researching GenAI-enabled software ecosystem health monitoring solutions at Siemens.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+### Focus
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+- LLM-based text-to-Cypher and prompt-to-visualization workflows
+- Ontology-driven ETL into Neo4j knowledge graphs
+- Graph analytics for software ecosystem health monitoring
+- Agentic AI systems and manufacturing-oriented research
+
+### Explore
+
+- [CV](/cv/)
+- [Projects](/projects/)
+- [Publications](/publications/)

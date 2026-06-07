@@ -1,221 +1,369 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
-    "image": "",
-    "email": "einstein@example.com",
-    "phone": "(912) 123-4567",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "name": "Muhammad Ammar",
+    "label": "AI + Knowledge Graphs Engineer @ Siemens | MSc Electromobility-ACES @ FAU",
+    "image": "pic.jpeg",
+    "email": "muhammad.ammar@fau.de",
+    "phone": "+49 1577 3856534",
+    "url": "https://ammar.github.io",
+    "summary": "Machine Learning engineer working on LLM pipelines, knowledge graphs, ontology-driven graph-based analytics, and applied AI. Pursuing an MSc in Electromobility-ACES at Friedrich-Alexander-Universitat Erlangen-Nurnberg while researching GenAI-enabled software ecosystem health monitoring solutions at Siemens.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "city": "Erlangen",
+      "countryCode": "DE",
+      "region": "Bavaria"
     },
-    "profiles": []
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "Ammar2k",
+        "url": "https://github.com/Ammar2k"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "muhammad2000ammar",
+        "url": "https://www.linkedin.com/in/muhammad2000ammar/"
+      }
+    ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "location": "Princeton University, NJ",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity", "Description 2."]
+      "name": "Siemens AG + FAPS FAU",
+      "position": "Master's Thesis",
+      "location": "Erlangen",
+      "startDate": "2026-05-01",
+      "endDate": "Present",
+      "summary": "Beyond the Agent: A Workflow-Level Review of Agentic AI Systems.",
+      "highlights": [
+        "Research objective: How are agentic AI systems structured, controlled, and evaluated as end-to-end workflows, and where do current approaches lack system-level rigor?"
+      ]
     },
     {
-      "name": "California Institute of Technology",
-      "position": "Visiting Professor",
-      "location": "Pasadena, California, US",
-      "startDate": "1933-01-01",
-      "endDate": "1933-01-01",
-      "summary": "",
-      "highlights": ["Description 1.", "Description 2."]
+      "name": "Siemens AG",
+      "position": "Data Analytics Researcher - Working Student",
+      "location": "Erlangen",
+      "startDate": "2024-10-01",
+      "endDate": "Present",
+      "summary": "Research on software ecosystem health monitoring, ontology-driven ETL, and LLM-based knowledge graph analytics.",
+      "highlights": [
+        "Conducted a systematic literature review of software ecosystem health analysis, surveying 61 research articles and 416 health metrics to build a unified metric ontology for ecosystem health monitoring.",
+        "Designed ontology-driven ETL pipelines that transform research metrics, KPIs, and platform ecosystem data into structured Neo4j knowledge graphs.",
+        "Developed an LLM-based Text-to-Cypher pipeline that maps natural-language prompts to knowledge graph queries for software ecosystem health analytics.",
+        "Modeled software ecosystem health as a metric knowledge graph, connecting indicators, KPI trees, and graph algorithms for real-time analysis and visualization.",
+        "Developed an LLM-powered Prompt-to-Visualization pipeline to display the most relevant dashboard for a user query, lowering TTI from 2 minutes to 5 seconds.",
+        "Submitted 6 invention disclosures and authored 4 research papers."
+      ]
     },
     {
-      "name": "Kaiser Wilhelm Institute for Physics",
-      "position": "Director",
-      "location": "Berlin, Germany",
-      "startDate": "1917-01-01",
-      "endDate": "1933-01-01",
-      "summary": "",
-      "highlights": []
+      "name": "FAPS FAU",
+      "position": "Project Thesis",
+      "location": "Erlangen",
+      "startDate": "2025-10-01",
+      "endDate": "2026-03-01",
+      "summary": "Architectural Paradigms of Multi-Agent Systems and Agentic AI in Intelligent Manufacturing Systems, A Systematic Literature Review.",
+      "highlights": [
+        "Research objective: How have agent architectures evolved in manufacturing systems, and what architectural design principles emerge from this evolution that are relevant for manufacturing control?"
+      ]
     },
     {
-      "name": "Karl-Ferdinand University",
-      "position": "Professor of Theoretical Physics",
-      "location": "Prague, Czechoslovakia",
-      "startDate": "1911-01-01",
-      "endDate": "1917-01-01",
-      "summary": "",
-      "highlights": []
+      "name": "NeuroOceans AI",
+      "position": "Machine Learning Engineer",
+      "location": "Remote",
+      "startDate": "2024-01-01",
+      "endDate": "2024-03-01",
+      "summary": "Built and evaluated audiovisual deepfake detection models.",
+      "highlights": [
+        "Finetuned multiple audiovisual deepfake detection models and evaluated them on performance metrics.",
+        "Led the entire pipeline development, from dataset collection and preprocessing to model training and evaluation."
+      ]
     },
     {
-      "name": "University of Zurich",
-      "position": "Associate Professor of Theoretical Physics",
-      "location": "Zurich, Switzerland",
-      "startDate": "1909-01-01",
-      "endDate": "1911-01-01",
-      "summary": "",
-      "highlights": []
-    }
-  ],
-  "volunteer": [
+      "name": "Learners.ai",
+      "position": "Solution Analyst",
+      "location": "Remote",
+      "startDate": "2023-07-01",
+      "endDate": "2023-12-01",
+      "summary": "Built GPT-powered workflow automations and chatbots using LangChain and Pinecone.",
+      "highlights": [
+        "Used LangChain and Pinecone to create a GPT-powered RAG chatbot that takes a sales call transcript and generates a sales proposal.",
+        "Developed a copywriter chatbot using LangChain Agents, tool calling, and a curated knowledge base.",
+        "Conducted Data Import Analysis for data transfer across CRMs, using Excel, SQL, and Python.",
+        "Created ad campaign effectiveness dashboards in HubSpot and Databox."
+      ]
+    },
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "name": "Robotics and Intelligent Systems Engineering (RISE) Laboratory",
+      "position": "Undergraduate Researcher",
+      "location": "Islamabad, Pakistan",
+      "startDate": "2021-01-01",
+      "endDate": "2022-01-01",
+      "summary": "Senior year research project focused on mobile robotics.",
+      "highlights": [
+        "Engaged in a senior year research project, providing bi-weekly presentations to a supervisory panel.",
+        "Developed a control algorithm for a mobile robot using Arduino, ultrasonic sensors, IR sensors, and encoders.",
+        "Successfully secured funding through IGNITE National Grassroots Research Initiative 2022 and obtained funding for AHFE Conference registration fees under the Pakistan and European Unions Horizon 2020 ENHANCE project."
+      ]
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Physics",
-      "studyType": "PhD",
-      "startDate": "1900-01-01",
-      "endDate": "1905-01-01",
-      "score": "",
-      "courses": ["Theory of Relativity"],
-      "highlights": ["Description 1.", "Description 2."]
+      "institution": "Friedrich-Alexander-Universitat Erlangen-Nurnberg (FAU)",
+      "location": "Erlangen, Germany",
+      "area": "Electromobility-ACES",
+      "studyType": "MSc",
+      "startDate": "2024-01-01",
+      "endDate": "Present",
+      "score": "1.4",
+      "courses": [],
+      "highlights": [
+        "Current grade: 1.4"
+      ]
     },
     {
-      "institution": "Eidgenössische Technische Hochschule",
-      "location": "Zurich, Switzerland",
-      "area": "Physics",
-      "studyType": "Federal teaching diploma",
-      "startDate": "1896-01-01",
-      "endDate": "1900-01-01",
+      "institution": "Scuola Superiore Sant'Anna (SSSA)",
+      "location": "Pisa, Italy",
+      "area": "AI & Robotics in Extended Reality Seasonal School",
+      "studyType": "Seasonal School",
+      "startDate": "2025-01-01",
+      "endDate": "2025-01-01",
       "score": "",
       "courses": [],
-      "highlights": ["Description 1.", "Description 2."]
-    }
-  ],
-  "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "highlights": []
     },
     {
-      "title": "Max Planck Medal",
-      "date": "2029-01-01",
-      "awarder": "German Physical Society",
-      "summary": ""
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "icon": "fa-solid fa-envelope"
+      "institution": "National University of Sciences and Technology (NUST)",
+      "location": "Islamabad, Pakistan",
+      "area": "Mechanical Engineering",
+      "studyType": "B.Sc.",
+      "startDate": "2018-01-01",
+      "endDate": "2022-01-01",
+      "score": "",
+      "courses": [],
+      "highlights": []
     }
   ],
   "publications": [
     {
-      "name": "Zur Elektrodynamik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "Towards Data-Driven Real-Time Performance Monitoring of Platform Ecosystems.",
+      "publisher": "APSEC 2025 Software Engineering in Practice track",
+      "releaseDate": "2025-01-01",
+      "url": "https://doi.org/10.1109/APSEC66846.2025.00113",
+      "summary": "Conference paper on real-time performance monitoring for platform ecosystems."
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
+      "name": "Data-Driven Health Monitoring of Platform Ecosystems: A Systematic Literature Review.",
+      "publisher": "SDS 2025",
+      "releaseDate": "2025-01-01",
+      "url": "https://doi.org/10.1109/SDS68531.2025.11409729",
+      "summary": "Systematic literature review on data-driven health and performance monitoring for platform ecosystems."
     },
     {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "name": "Prompt-to-Metric: LLMs and Graph Algorithms for Platform Ecosystem Health Monitoring.",
+      "publisher": "WIPIEC",
+      "releaseDate": "2025-01-01",
+      "url": "https://doi.org/10.64552/wipiec.v11i1.97",
+      "summary": "Combining LLMs with graph analytics to monitor platform ecosystems."
+    },
+    {
+      "name": "Schema Injection Strategies for LLM-Based Text-to-Cypher Query Translation: An Empirical Study.",
+      "publisher": "Best Paper Award",
+      "releaseDate": "2025-01-01",
+      "summary": "Empirical study of schema injection strategies for LLM-based Text-to-Cypher query translation."
+    },
+    {
+      "name": "A Chain-Driven Live Roller Mechanism for Loading and Unloading Packages on Autonomous Mobile Robots in Warehouses.",
+      "publisher": "Applied Human Factors and Ergonomics (AHFE) Conference",
+      "releaseDate": "2022-01-01",
+      "url": "https://doi.org/10.54941/ahfe1001600",
+      "summary": "Conference paper on an autonomous mobile robot mechanism for warehouse loading and unloading."
+    }
+  ],
+  "projects": [
+    {
+      "name": "Autonomous Mobile Robot",
+      "url": "https://doi.org/10.54941/ahfe1001600",
+      "startDate": "2021-01-01",
+      "endDate": "2022-01-01",
+      "summary": "Designed and developed an autonomous mobile robot for warehouse operations, including obstacle avoidance and an attachable live-roller mechanism for automated loading and unloading.",
+      "highlights": [
+        "Robotics",
+        "Arduino Programming",
+        "Controls",
+        "Design"
+      ]
+    },
+    {
+      "name": "Image2Audio app",
+      "url": "https://github.com/Ammar2k/image_to_audio-story",
+      "startDate": "2023-01-01",
+      "endDate": "2023-01-01",
+      "summary": "Users upload an image, the app generates a caption for the image, creates a short story based on the caption, and then converts the story into audio format.",
+      "highlights": [
+        "OpenAI API",
+        "HuggingFace",
+        "LangChain",
+        "Streamlit",
+        "TTS"
+      ]
+    },
+    {
+      "name": "Q&A Chatbot on private data",
+      "url": "https://medium.com/@muhammad2000ammar/building-a-q-a-chatbot-on-private-data-ba1af4a9a4dc",
+      "startDate": "2023-01-01",
+      "endDate": "2023-01-01",
+      "summary": "Blog post on Retrieval Augmented Generation (RAG) using ChromaDB, GPT wrapped around LangChain, and private data.",
+      "highlights": [
+        "OpenAI API",
+        "LangChain",
+        "Vector Database",
+        "Blogpost"
+      ]
+    },
+    {
+      "name": "Scene Classification",
+      "url": "https://huggingface.co/spaces/Ammar2k/scene_recognition/",
+      "startDate": "2023-01-01",
+      "endDate": "2023-01-01",
+      "summary": "Finetuned ViT pre-trained on ImageNet for Kaggle Intel Classification Challenge.",
+      "highlights": [
+        "PyTorch",
+        "Computer Vision",
+        "Gradio"
+      ]
+    },
+    {
+      "name": "Podcast Summarizer",
+      "url": "https://github.com/Ammar2k/podcast_chatbot",
+      "startDate": "2023-01-01",
+      "endDate": "2023-01-01",
+      "summary": "Converts podcast audio to text using Whisper, uses GPT-3.5 to generate a summary, and uses the Wikipedia API to display additional information.",
+      "highlights": [
+        "OpenAI API",
+        "Whisper",
+        "Audio2Text",
+        "Streamlit"
+      ]
+    },
+    {
+      "name": "Transfer Learning with PyTorch",
+      "url": "https://medium.com/@muhammad2000ammar/mastering-transfer-learning-with-pytorch-d1521f3a6a6e",
+      "startDate": "2023-01-01",
+      "endDate": "2023-01-01",
+      "summary": "Scene classification by fine-tuning pre-trained Vision Transformers (ViT) guide.",
+      "highlights": [
+        "PyTorch",
+        "Vision Transformer",
+        "Blogpost"
+      ]
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Deep Neural Networks with PyTorch",
+      "date": "2023-05-01",
+      "issuer": "IBM"
+    },
+    {
+      "name": "Machine Learning Specialization",
+      "date": "2023-01-01",
+      "issuer": "DeepLearning.AI",
+      "url": "https://www.coursera.org/account/accomplishments/specialization/F7QDWR9FL7Q5"
+    },
+    {
+      "name": "Introduction to TensorFlow for AI, ML, and Deep Learning",
+      "date": "2022-10-01",
+      "issuer": "Coursera",
+      "url": "https://www.coursera.org/account/accomplishments/verify/3Y3C3C9NWCYS"
+    },
+    {
+      "name": "YOLOv7 YOLOv8: Deep Learning - Computer Vision 2023",
+      "date": "2023-03-01",
+      "issuer": "Udemy"
+    },
+    {
+      "name": "Computer Vision Bootcamp with Python",
+      "date": "2023-02-01",
+      "issuer": "Udemy"
+    },
+    {
+      "name": "Robotics: Aerial Robotics",
+      "date": "2022-09-01",
+      "issuer": "Coursera",
+      "url": "https://www.coursera.org/account/accomplishments/verify/K6HM3M6EF44F"
+    },
+    {
+      "name": "SQL for Data Science",
+      "date": "2021-09-01",
+      "issuer": "Coursera",
+      "url": "https://www.coursera.org/account/accomplishments/verify/YMEWLM65HK8D"
+    },
+    {
+      "name": "Data Analysis with R Programming",
+      "date": "2021-08-01",
+      "issuer": "Coursera",
+      "url": "https://www.coursera.org/account/accomplishments/verify/N8LCMSG68NRS"
+    },
+    {
+      "name": "Web Developer Bootcamp with Flask and Python in 2023",
+      "date": "2023-05-01",
+      "issuer": "Udemy"
+    },
+    {
+      "name": "Generative AI with Large Language Models",
+      "date": "2023-01-01",
+      "issuer": "DeepLearning.AI",
+      "url": "https://www.coursera.org/account/accomplishments/verify/D3L539HPAWU8"
+    },
+    {
+      "name": "IELTS 8.5",
+      "date": "2022-11-01",
+      "issuer": "British Council"
     }
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "name": "AI and Machine Learning",
+      "level": "Advanced",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Python",
+        "PyTorch",
+        "LLMs",
+        "Agentic AI",
+        "Multi-Agent Systems",
+        "Prompt Engineering",
+        "Natural Language Processing",
+        "Computer Vision",
+        "Machine Learning",
+        "Data Science"
+      ]
+    },
+    {
+      "name": "Knowledge Graphs and Data",
+      "level": "Advanced",
+      "keywords": [
+        "Knowledge Graphs",
+        "Ontologies",
+        "Ontology-Driven ETL",
+        "ETL Pipelines",
+        "Graph Analytics",
+        "Neo4j",
+        "Cypher",
+        "LangChain"
+      ]
+    },
+    {
+      "name": "Robotics",
+      "level": "Intermediate",
+      "keywords": [
+        "ROS2",
+        "Arduino",
+        "Controls"
       ]
     }
   ],
   "languages": [
     {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
-    },
-    {
       "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
-    }
-  ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit."
-    },
-    {
-      "name": "Professor Jane Smith",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit."
-    }
-  ],
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01"
+      "fluency": "C2, IELTS 8.5"
     }
   ]
 }
