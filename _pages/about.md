@@ -22,7 +22,9 @@ selected_papers: false
 social: false
 
 announcements:
-  enabled: false
+  enabled: true
+  scrollable: false
+  limit: 5
 
 latest_posts:
   enabled: false
