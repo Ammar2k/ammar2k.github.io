@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Completed my project thesis at [FAPS FAU](https://www.faps.fau.de/) on multi-agent systems and agentic AI in manufacturing systems.
+Completed my project thesis at [FAPS FAU](https://www.faps.fau.de/) on multi-agent systems in manufacturing systems.
