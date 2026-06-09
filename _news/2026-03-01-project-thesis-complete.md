@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2026-03-01 00:00:00+0100
+date: 2026-03-01 12:00:00+0100
 inline: true
 related_posts: false
 ---
 
-Completed the FAPS FAU project thesis, a systematic literature review on multi-agent systems and agentic AI for manufacturing control.
+Completed my project thesis at [FAPS FAU](https://www.faps.fau.de/) on multi-agent systems and agentic AI in manufacturing systems.
