@@ -2,6 +2,48 @@
 layout: default
 ---
 <div class="post">
+  <style>
+    .post article > .profile {
+      margin-left: 1.1rem;
+      margin-bottom: 0.55rem;
+      max-width: 235px;
+      width: 30%;
+    }
+
+    .post article > .profile figure {
+      aspect-ratio: 1 / 1;
+      margin-bottom: 0;
+      overflow: hidden;
+    }
+
+    .post article > .profile img {
+      height: 100% !important;
+      object-fit: cover;
+      object-position: center 36%;
+      transform: scale(1.12);
+      transform-origin: center 36%;
+      width: 100% !important;
+    }
+
+    .post article > .about-content {
+      display: block;
+    }
+
+    .post article > .about-content::after {
+      clear: both;
+      content: '';
+      display: block;
+    }
+
+    @media (max-width: 575px) {
+      .post article > .profile {
+        float: none !important;
+        margin: 0 auto 1rem;
+        max-width: 220px;
+        width: 70%;
+      }
+    }
+  </style>
   <header class="post-header">
     <h1 class="post-title">
       {{ site.first_name }}
@@ -36,7 +78,7 @@ layout: default
       </div>
     {% endif %}
 
-    <div class="clearfix">{{ content }}</div>
+    <div class="about-content">{{ content }}</div>
 
     <!-- News -->
     {% if page.announcements and page.announcements.enabled %}

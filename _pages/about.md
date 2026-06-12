@@ -21,14 +21,14 @@ latest_posts:
   enabled: false
 ---
 
-I work on LLM pipelines, knowledge graphs, ontology-driven graph analytics, and applied AI. I am currently pursuing an MSc in Electromobility-ACES at Friedrich-Alexander-Universitat Erlangen-Nurnberg while researching GenAI-enabled software ecosystem health monitoring solutions at Siemens.
+I work at the intersection of LLM systems, knowledge graphs, and applied AI. At Siemens, my research focuses on GenAI-enabled software ecosystem health monitoring; at FAU, I am pursuing an M.Sc. in Electromobility-ACES.
 
-### Focus
+### Research Interests
 
-- LLM-based text-to-Cypher and prompt-to-visualization workflows
-- Ontology-driven ETL into Neo4j knowledge graphs
-- Graph analytics for software ecosystem health monitoring
-- Agentic AI systems and manufacturing-oriented research
+- LLM-based text-to-Cypher, prompt-to-visualization, and graph analytics
+- Ontology-driven ETL and Neo4j knowledge graph construction
+- Software ecosystem health monitoring and platform analytics
+- Agentic AI workflows for manufacturing systems
 
 ### Explore
 
