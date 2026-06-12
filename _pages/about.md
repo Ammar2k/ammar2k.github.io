@@ -2,24 +2,15 @@
 layout: about
 title: About
 permalink: /
-subtitle: AI + Knowledge Graphs Engineer @ Siemens | MSc Electromobility-ACES @ FAU
+subtitle: AI Research at Siemens | MSc Electromobility-ACES @ FAU
 
 profile:
   align: right
   image: pic.jpeg
-  image_circular: true # crops the image to make it circular
-  more_info: >
-    <p>Erlangen, Bavaria, Germany</p>
-    <p><a href="mailto:muhammad.ammar@fau.de">muhammad.ammar@fau.de</a></p>
-    <p>
-      <a href="https://github.com/Ammar2k" target="_blank" rel="noreferrer">GitHub</a>
-      &middot;
-      <a href="https://www.linkedin.com/in/muhammad2000ammar/" target="_blank" rel="noreferrer">LinkedIn</a>
-    </p>
-    <p><a href="/assets/pdf/muhammad-ammar-cv.pdf" download="Muhammad_Ammar_CV.pdf">Download CV</a></p>
+  image_circular: false # keeps the image square
 
 selected_papers: false
-social: false
+social: true
 
 announcements:
   enabled: true

@@ -1,10 +1,9 @@
 {
   "basics": {
     "name": "Muhammad Ammar",
-    "label": "AI + Knowledge Graphs Engineer @ Siemens | MSc Electromobility-ACES @ FAU",
+    "label": "AI Research at Siemens | MSc Electromobility-ACES @ FAU",
     "image": "pic.jpeg",
     "email": "muhammad.ammar@fau.de",
-    "phone": "+49 1577 3856534",
     "url": "https://ammar2k.github.io",
     "summary": "Machine Learning engineer working on LLM pipelines, knowledge graphs, ontology-driven graph-based analytics, and applied AI. Pursuing an MSc in Electromobility-ACES at Friedrich-Alexander-Universitat Erlangen-Nurnberg while researching GenAI-enabled software ecosystem health monitoring solutions at Siemens.",
     "location": {
@@ -227,65 +226,164 @@
   ],
   "certificates": [
     {
-      "name": "Deep Neural Networks with PyTorch",
-      "date": "2023-05-01",
-      "issuer": "IBM"
+      "name": "How to Get Into Robotics",
+      "date": "2024-02-01",
+      "issuer": "University of Leeds",
+      "url": "https://coursera.org/verify/W25LNW2YMMAV"
     },
     {
-      "name": "Machine Learning Specialization",
-      "date": "2023-01-01",
+      "name": "Docker Essentials: A Developer Introduction",
+      "date": "2024-01-01",
+      "issuer": "IBM Cognitive Class",
+      "url": "https://courses.cognitiveclass.ai/certificates/45feff05d90049139e3351a3705a4111"
+    },
+    {
+      "name": "Open Source Software Development Methods",
+      "date": "2023-12-01",
+      "issuer": "The Linux Foundation",
+      "url": "https://coursera.org/verify/6RVUAJ3F4RN5"
+    },
+    {
+      "name": "Generative AI with Large Language Models",
+      "date": "2023-08-01",
+      "issuer": "DeepLearning.AI and AWS",
+      "url": "https://coursera.org/verify/D3L539HPAWU8"
+    },
+    {
+      "name": "Building AI Products with OpenAI",
+      "date": "2023-08-01",
+      "issuer": "Uplimit"
+    },
+    {
+      "name": "Natural Language Processing Specialization",
+      "date": "2023-07-01",
       "issuer": "DeepLearning.AI",
-      "url": "https://www.coursera.org/account/accomplishments/specialization/F7QDWR9FL7Q5"
+      "url": "https://coursera.org/verify/specialization/JT69WWC2QX8U"
     },
     {
-      "name": "Introduction to TensorFlow for AI, ML, and Deep Learning",
-      "date": "2022-10-01",
-      "issuer": "Coursera",
-      "url": "https://www.coursera.org/account/accomplishments/verify/3Y3C3C9NWCYS"
-    },
-    {
-      "name": "YOLOv7 YOLOv8: Deep Learning - Computer Vision 2023",
-      "date": "2023-03-01",
-      "issuer": "Udemy"
-    },
-    {
-      "name": "Computer Vision Bootcamp with Python",
-      "date": "2023-02-01",
-      "issuer": "Udemy"
-    },
-    {
-      "name": "Robotics: Aerial Robotics",
-      "date": "2022-09-01",
-      "issuer": "Coursera",
-      "url": "https://www.coursera.org/account/accomplishments/verify/K6HM3M6EF44F"
-    },
-    {
-      "name": "SQL for Data Science",
-      "date": "2021-09-01",
-      "issuer": "Coursera",
-      "url": "https://www.coursera.org/account/accomplishments/verify/YMEWLM65HK8D"
-    },
-    {
-      "name": "Data Analysis with R Programming",
-      "date": "2021-08-01",
-      "issuer": "Coursera",
-      "url": "https://www.coursera.org/account/accomplishments/verify/N8LCMSG68NRS"
+      "name": "PyTorch for Deep Learning in 2023 - Zero to Mastery",
+      "date": "2023-07-01",
+      "issuer": "Udemy",
+      "url": "https://ude.my/UC-848efdab-fe67-45c4-87b3-afdfa21a235b/"
     },
     {
       "name": "Web Developer Bootcamp with Flask and Python in 2023",
       "date": "2023-05-01",
-      "issuer": "Udemy"
+      "issuer": "Udemy",
+      "url": "https://www.udemy.com/certificate/UC-d41c2bb1-3ed7-41c7-8ab4-76811525ffca/"
     },
     {
-      "name": "Generative AI with Large Language Models",
+      "name": "Deep Neural Networks with PyTorch",
+      "date": "2023-05-01",
+      "issuer": "IBM",
+      "url": "https://coursera.org/verify/8QBTNUHAZDQ7"
+    },
+    {
+      "name": "YOLOv7 YOLOv8: Deep Learning - Computer Vision 2023",
+      "date": "2023-03-01",
+      "issuer": "Udemy",
+      "url": "https://www.udemy.com/course/yolo-masterclass-deep-learning-computer-vision-course/"
+    },
+    {
+      "name": "Computer Vision Bootcamp with Python",
+      "date": "2023-02-01",
+      "issuer": "Udemy",
+      "url": "https://www.udemy.com/course/computer-vision-bootcamptm-python-and-opencv/"
+    },
+    {
+      "name": "Machine Learning Specialization",
       "date": "2023-01-01",
-      "issuer": "DeepLearning.AI",
-      "url": "https://www.coursera.org/account/accomplishments/verify/D3L539HPAWU8"
+      "issuer": "DeepLearning.AI and Stanford University",
+      "url": "https://coursera.org/verify/specialization/F7QDWR9FL7Q5"
+    },
+    {
+      "name": "Unsupervised Learning, Recommender Systems, Reinforcement Learning",
+      "date": "2023-01-01",
+      "issuer": "DeepLearning.AI and Stanford University",
+      "url": "https://coursera.org/verify/DYAEBBWWN83D"
+    },
+    {
+      "name": "Advanced Learning Algorithms",
+      "date": "2022-12-01",
+      "issuer": "DeepLearning.AI and Stanford University",
+      "url": "https://coursera.org/verify/HGMBHJPNE8GR"
+    },
+    {
+      "name": "Supervised Machine Learning: Regression and Classification",
+      "date": "2022-11-01",
+      "issuer": "DeepLearning.AI and Stanford University",
+      "url": "https://coursera.org/verify/9PV3YSYC3EJQ"
     },
     {
       "name": "IELTS 8.5",
       "date": "2022-11-01",
       "issuer": "British Council"
+    },
+    {
+      "name": "Crash Course on Python",
+      "date": "2022-10-01",
+      "issuer": "Google",
+      "url": "https://coursera.org/verify/THNABG7KMBFA"
+    },
+    {
+      "name": "Understanding Research Methods",
+      "date": "2022-10-01",
+      "issuer": "University of London and SOAS University of London",
+      "url": "https://coursera.org/verify/DLR2BKTE7R8Q"
+    },
+    {
+      "name": "Introduction to TensorFlow for AI, ML, and Deep Learning",
+      "date": "2022-10-01",
+      "issuer": "DeepLearning.AI",
+      "url": "https://coursera.org/verify/3Y3C3C9NWCYS"
+    },
+    {
+      "name": "Supply Chain Operations",
+      "date": "2022-10-01",
+      "issuer": "Rutgers University",
+      "url": "https://coursera.org/verify/KGYNVBDRDYRG"
+    },
+    {
+      "name": "Supply Chain Logistics",
+      "date": "2022-09-01",
+      "issuer": "Rutgers University",
+      "url": "https://coursera.org/verify/K4SJC3E2SELH"
+    },
+    {
+      "name": "Robotics: Aerial Robotics",
+      "date": "2022-09-01",
+      "issuer": "University of Pennsylvania",
+      "url": "https://coursera.org/verify/K6HM3M6EF44F"
+    },
+    {
+      "name": "Introduction to Mechanical Engineering Design and Manufacturing with Fusion 360",
+      "date": "2022-08-01",
+      "issuer": "Autodesk",
+      "url": "https://coursera.org/verify/VPHC3CHZ8SPR"
+    },
+    {
+      "name": "SQL for Data Science",
+      "date": "2021-09-01",
+      "issuer": "UC Davis",
+      "url": "https://coursera.org/verify/YMEWLM65HK8D"
+    },
+    {
+      "name": "Getting and Cleaning Data",
+      "date": "2021-09-01",
+      "issuer": "Johns Hopkins University",
+      "url": "https://coursera.org/verify/9YUCMBYY9QRF"
+    },
+    {
+      "name": "Data Analysis with R Programming",
+      "date": "2021-08-01",
+      "issuer": "Google",
+      "url": "https://coursera.org/verify/N8LCMSG68NRS"
+    },
+    {
+      "name": "The Data Scientist's Toolbox",
+      "date": "2021-08-01",
+      "issuer": "Johns Hopkins University",
+      "url": "https://coursera.org/verify/9RBNMM7X342W"
     }
   ],
   "skills": [
