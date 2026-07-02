@@ -164,6 +164,7 @@
       "name": "Schema Injection Strategies for LLM-Based Text-to-Cypher Query Translation: An Empirical Study.",
       "publisher": "Best Paper Award",
       "releaseDate": "2025-01-01",
+      "url": "https://doi.org/10.1142/S0219649226500541",
       "summary": "Empirical study of schema injection strategies for LLM-based Text-to-Cypher query translation."
     },
     {
