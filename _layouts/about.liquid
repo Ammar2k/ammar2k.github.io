@@ -4,14 +4,30 @@ layout: default
 <div class="post">
   <style>
     .post article > .profile {
-      margin-left: 0.95rem;
-      margin-bottom: 0.45rem;
-      max-width: 285px;
-      width: 36%;
+      background: color-mix(in srgb, var(--global-bg-color) 94%, var(--global-theme-color));
+      border: 1px solid color-mix(in srgb, var(--global-divider-color) 70%, var(--global-theme-color));
+      border-radius: 1.15rem;
+      box-shadow: 0 1rem 2.5rem rgba(0, 0, 0, 0.09);
+      isolation: isolate;
+      margin: 0.25rem 0 1.5rem 2rem;
+      max-width: 250px;
+      padding: 0.45rem;
+      position: relative;
+      width: 31%;
+    }
+
+    .post article > .profile::before {
+      background: color-mix(in srgb, var(--global-theme-color) 18%, transparent);
+      border-radius: inherit;
+      content: '';
+      inset: 0.7rem -0.65rem -0.65rem 0.7rem;
+      position: absolute;
+      z-index: -1;
     }
 
     .post article > .profile figure {
       aspect-ratio: 1 / 1;
+      border-radius: 0.8rem;
       margin-bottom: 0;
       overflow: hidden;
     }
@@ -19,9 +35,9 @@ layout: default
     .post article > .profile img {
       height: 100% !important;
       object-fit: cover;
-      object-position: center 25%;
-      transform: scale(1.42);
-      transform-origin: center 25%;
+      object-position: center 28%;
+      transform: scale(1.22);
+      transform-origin: center 28%;
       width: 100% !important;
     }
 
@@ -38,9 +54,9 @@ layout: default
     @media (max-width: 575px) {
       .post article > .profile {
         float: none !important;
-        margin: 0 auto 1rem;
-        max-width: 245px;
-        width: 78%;
+        margin: 0.25rem auto 1.75rem;
+        max-width: 230px;
+        width: 72%;
       }
     }
   </style>
